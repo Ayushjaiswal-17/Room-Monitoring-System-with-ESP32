@@ -2,6 +2,8 @@
 
 A comprehensive smart room monitoring system built for ESP32 that collects environmental data and streams it to Firebase Realtime Database in real-time.
 
+Youtube link to the Event https://www.youtube.com/watch?v=PJ6x5dBapE4  
+
 ## Dashboard
 [Dashboard](https://rms-frontend-peach.vercel.app/)
 
